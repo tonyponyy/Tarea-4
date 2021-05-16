@@ -1,0 +1,28 @@
+body {
+ background-image:  url("../images/pin.png");
+   background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+
+
+table{
+  text-align: center;
+  border-spacing: 0.5;
+  border-bottom: 5px solid black;
+  border-right:  5px solid black;
+  background-color: white;
+  margin: 22%
+    
+}
+
+th,td{
+  border: 1px solid black;
+  width: 10%;
+}
+th{
+  background-color: #fffd9e ;
+}
+td{
+  background-color: white;
+}
